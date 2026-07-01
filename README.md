@@ -1,5 +1,3 @@
-# Hi, I'm Alexandr 👋
-
 Senior Full-Stack Software Engineer with 7+ years of experience building scalable web applications, backend systems, APIs, and cloud-based solutions.
 
 ## 💻 Technical Skills
